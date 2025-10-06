@@ -1,6 +1,6 @@
 ├── 第一次任务
 │   ├── cpp   
-|   │   ├── HelloWorld.png      
+|       ├── HelloWorld.png      
 │   └── ubuntu
-|   |   ├── 1.png
-|   |   └── 2.png
+|       ├── 1.png
+|       └── 2.png
